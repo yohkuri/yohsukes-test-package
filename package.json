@@ -1,6 +1,6 @@
 {
   "name": "yohsukes-test-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Yohsuke's first test for npmjs",
   "main": "index.js",
   "scripts": {
